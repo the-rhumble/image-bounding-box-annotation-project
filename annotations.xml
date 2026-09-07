@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>4451435</id>
+      <size>50</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-09-07 10:27:29.116956+00:00</created>
+      <updated>2026-09-07 12:33:41.521395+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>49</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>4448997</id>
+          <start>0</start>
+          <stop>49</stop>
+          <url>https://app.cvat.ai/api/jobs/4451435/dataset/export/api/jobs/4451435</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>rejoice</username>
+        <email>the.eremitesdispatch@gmail.com</email>
+      </owner>
+      <assignee>
+        <username>rejoice</username>
+        <email>the.eremitesdispatch@gmail.com</email>
+      </assignee>
+      <labels>
+        <label>
+          <name>with_mask</name>
+          <color>#24b353</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>without_mask</name>
+          <color>#ff007c</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>mask_weared_incorrect</name>
+          <color>#473576</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2026-09-07 12:34:32.476040+00:00</dumped>
+  </meta>
+  <image id="0" name="maksssksksss0.png" width="512" height="366">
+    <box label="with_mask" source="manual" occluded="0" xtl="188.69" ytl="101.10" xbr="225.09" ybr="146.20" z_order="0">
+    </box>
+    <box label="without_mask" source="manual" occluded="0" xtl="329.14" ytl="89.45" xbr="362.62" ybr="144.03" z_order="0">
+    </box>
+    <box label="without_mask" source="manual" occluded="0" xtl="78.70" ytl="102.16" xbr="112.13" ybr="141.96" z_order="0">
+    </box>
+    <box label="without_mask" source="manual" occluded="0" xtl="463.44" ytl="173.80" xbr="490.50" ybr="197.68" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="maksssksksss100.png" width="400" height="226">
+    <box label="with_mask" source="manual" occluded="0" xtl="118.87" ytl="85.82" xbr="157.67" ybr="127.17" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="192.45" ytl="23.60" xbr="240.60" ybr="88.60" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="maksssksksss109.png" width="400" height="400">
+    <box label="with_mask" source="manual" occluded="0" xtl="223.83" ytl="73.21" xbr="361.68" ybr="249.60" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="maksssksksss116.png" width="400" height="225">
+    <box label="with_mask" source="manual" occluded="0" xtl="116.28" ytl="85.40" xbr="147.12" ybr="121.50" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="159.51" ytl="75.80" xbr="192.17" ybr="116.80" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="234.50" ytl="35.40" xbr="269.88" ybr="86.00" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="303.44" ytl="58.80" xbr="339.72" ybr="98.38" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="372.08" ytl="55.00" xbr="396.57" ybr="95.70" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="maksssksksss135.png" width="400" height="225">
+    <box label="with_mask" source="manual" occluded="0" xtl="51.20" ytl="152.90" xbr="148.02" ybr="224.77" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="148.63" ytl="67.40" xbr="268.97" ybr="195.90" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="maksssksksss140.png" width="400" height="267">
+    <box label="with_mask" source="manual" occluded="0" xtl="29.97" ytl="35.80" xbr="191.43" ybr="245.40" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="213.68" ytl="113.60" xbr="338.19" ybr="254.10" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="maksssksksss153.png" width="400" height="268">
+    <box label="without_mask" source="manual" occluded="0" xtl="288.00" ytl="20.85" xbr="309.80" ybr="43.80" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="88.74" ytl="14.60" xbr="110.71" ybr="46.42" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="maksssksksss17.png" width="301" height="400">
+    <box label="with_mask" source="manual" occluded="0" xtl="75.90" ytl="174.50" xbr="169.80" ybr="292.00" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="maksssksksss18.png" width="400" height="267">
+    <box label="with_mask" source="manual" occluded="0" xtl="301.80" ytl="158.30" xbr="354.10" ybr="216.40" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="134.03" ytl="81.20" xbr="189.10" ybr="148.20" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="maksssksksss182.png" width="400" height="267">
+    <box label="with_mask" source="manual" occluded="0" xtl="205.79" ytl="38.30" xbr="270.01" ybr="107.50" z_order="0">
+    </box>
+    <box label="without_mask" source="manual" occluded="0" xtl="116.70" ytl="37.08" xbr="169.20" ybr="99.15" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="maksssksksss190.png" width="400" height="282">
+    <box label="with_mask" source="manual" occluded="0" xtl="144.00" ytl="65.11" xbr="217.87" ybr="156.10" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="maksssksksss193.png" width="300" height="400">
+    <box label="with_mask" source="manual" occluded="0" xtl="146.90" ytl="44.88" xbr="257.10" ybr="174.41" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="11.93" ytl="180.50" xbr="97.39" ybr="252.20" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="maksssksksss197.png" width="400" height="226">
+    <box label="with_mask" source="manual" occluded="0" xtl="173.00" ytl="79.22" xbr="210.67" ybr="125.90" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="maksssksksss20.png" width="267" height="400">
+    <box label="with_mask" source="manual" occluded="0" xtl="1.07" ytl="111.21" xbr="26.33" ybr="204.74" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="94.20" ytl="63.91" xbr="153.00" ybr="122.50" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="maksssksksss236.png" width="301" height="400">
+    <box label="without_mask" source="manual" occluded="0" xtl="157.28" ytl="155.29" xbr="265.86" ybr="283.22" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="maksssksksss249.png" width="400" height="267">
+    <box label="with_mask" source="manual" occluded="0" xtl="173.54" ytl="59.77" xbr="232.02" ybr="136.19" z_order="0">
+    </box>
+    <box label="without_mask" source="manual" occluded="0" xtl="232.89" ytl="90.97" xbr="261.92" ybr="141.68" z_order="0">
+    </box>
+    <box label="without_mask" source="manual" occluded="0" xtl="321.70" ytl="107.40" xbr="366.89" ybr="190.80" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="maksssksksss254.png" width="400" height="217">
+    <box label="with_mask" source="manual" occluded="0" xtl="326.00" ytl="50.25" xbr="375.00" ybr="110.50" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="64.43" ytl="91.37" xbr="109.33" ybr="139.40" z_order="0">
+    </box>
+    <box label="without_mask" source="manual" occluded="0" xtl="375.87" ytl="38.08" xbr="392.54" ybr="68.91" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="295.32" ytl="68.60" xbr="313.25" ybr="97.54" z_order="0">
+    </box>
+    <box label="without_mask" source="manual" occluded="0" xtl="18.64" ytl="42.09" xbr="54.80" ybr="82.92" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="171.45" ytl="49.96" xbr="239.69" ybr="133.80" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="maksssksksss26.png" width="400" height="400">
+    <box label="with_mask" source="manual" occluded="0" xtl="75.49" ytl="85.91" xbr="173.91" ybr="208.20" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="241.99" ytl="164.43" xbr="328.54" ybr="239.00" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="maksssksksss28.png" width="400" height="300">
+    <box label="with_mask" source="manual" occluded="0" xtl="104.50" ytl="24.12" xbr="160.10" ybr="96.30" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="maksssksksss298.png" width="400" height="282">
+    <box label="with_mask" source="manual" occluded="0" xtl="130.29" ytl="114.38" xbr="210.25" ybr="212.50" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="252.18" ytl="55.20" xbr="322.25" ybr="139.10" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="maksssksksss303.png" width="400" height="225">
+    <box label="with_mask" source="manual" occluded="0" xtl="91.79" ytl="63.60" xbr="110.23" ybr="78.42" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="239.94" ytl="40.62" xbr="256.27" ybr="57.60" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="maksssksksss31.png" width="400" height="267">
+    <box label="with_mask" source="manual" occluded="0" xtl="139.41" ytl="43.18" xbr="199.69" ybr="135.03" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="208.66" ytl="69.73" xbr="266.78" ybr="165.89" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="maksssksksss315.png" width="400" height="267">
+    <box label="with_mask" source="manual" occluded="0" xtl="272.52" ytl="108.48" xbr="316.80" ybr="162.70" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="129.36" ytl="102.70" xbr="183.00" ybr="173.06" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="maksssksksss316.png" width="400" height="315">
+    <box label="with_mask" source="manual" occluded="0" xtl="241.40" ytl="57.89" xbr="280.20" ybr="107.21" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="97.50" ytl="34.01" xbr="133.40" ybr="79.30" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="310.90" ytl="67.70" xbr="332.80" ybr="111.10" z_order="0">
+    </box>
+    <box label="without_mask" source="manual" occluded="0" xtl="157.90" ytl="72.95" xbr="176.80" ybr="114.70" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="maksssksksss349.png" width="400" height="268">
+    <box label="with_mask" source="manual" occluded="0" xtl="42.20" ytl="163.80" xbr="84.20" ybr="223.63" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="165.90" ytl="44.98" xbr="252.50" ybr="162.40" z_order="0">
+    </box>
+    <box label="without_mask" source="manual" occluded="0" xtl="253.20" ytl="6.80" xbr="290.89" ybr="91.51" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="maksssksksss362.png" width="400" height="275">
+    <box label="with_mask" source="manual" occluded="0" xtl="71.42" ytl="101.39" xbr="164.92" ybr="215.59" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="181.92" ytl="108.41" xbr="257.31" ybr="215.22" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="265.44" ytl="72.20" xbr="341.20" ybr="182.70" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="maksssksksss374.png" width="400" height="240">
+    <box label="with_mask" source="manual" occluded="0" xtl="186.82" ytl="18.33" xbr="214.50" ybr="48.97" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="91.67" ytl="65.42" xbr="123.93" ybr="89.29" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="301.23" ytl="191.93" xbr="331.15" ybr="233.68" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="28.06" ytl="89.27" xbr="50.70" ybr="110.50" z_order="0">
+    </box>
+    <box label="without_mask" source="manual" occluded="0" xtl="313.10" ytl="27.73" xbr="341.87" ybr="63.85" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="193.92" ytl="140.57" xbr="224.70" ybr="183.70" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="maksssksksss377.png" width="400" height="300">
+    <box label="with_mask" source="manual" occluded="0" xtl="123.86" ytl="55.16" xbr="244.80" ybr="184.97" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="maksssksksss38.png" width="400" height="285">
+    <box label="without_mask" source="manual" occluded="0" xtl="259.30" ytl="108.15" xbr="285.06" ybr="149.30" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="192.60" ytl="90.92" xbr="231.44" ybr="136.90" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="maksssksksss381.png" width="400" height="311">
+    <box label="without_mask" source="manual" occluded="0" xtl="354.67" ytl="146.83" xbr="361.77" ybr="156.44" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="246.42" ytl="69.93" xbr="266.30" ybr="95.90" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="205.88" ytl="68.26" xbr="227.40" ybr="94.30" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="97.50" ytl="56.97" xbr="119.37" ybr="88.10" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="163.25" ytl="71.18" xbr="186.66" ybr="96.68" z_order="0">
+    </box>
+    <box label="without_mask" source="manual" occluded="0" xtl="377.24" ytl="136.80" xbr="385.18" ybr="143.90" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="maksssksksss40.png" width="400" height="267">
+    <box label="without_mask" source="manual" occluded="0" xtl="367.20" ytl="83.00" xbr="388.40" ybr="113.50" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="202.56" ytl="68.65" xbr="234.13" ybr="112.78" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="64.42" ytl="81.21" xbr="102.20" ybr="135.60" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="255.30" ytl="75.11" xbr="291.40" ybr="127.00" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="maksssksksss414.png" width="400" height="225">
+    <box label="with_mask" source="manual" occluded="0" xtl="120.00" ytl="79.03" xbr="147.12" ybr="114.70" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="104.60" ytl="41.53" xbr="123.84" ybr="57.90" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="145.91" ytl="75.70" xbr="162.84" ybr="91.72" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="315.00" ytl="14.62" xbr="342.75" ybr="43.50" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="203.40" ytl="20.67" xbr="227.85" ybr="48.20" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="maksssksksss427.png" width="400" height="210">
+    <box label="with_mask" source="manual" occluded="0" xtl="211.62" ytl="61.11" xbr="238.77" ybr="86.27" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="52.43" ytl="67.33" xbr="68.54" ybr="84.01" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="306.92" ytl="3.99" xbr="397.12" ybr="87.69" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="129.90" ytl="54.32" xbr="179.11" ybr="128.41" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="maksssksksss43.png" width="266" height="400">
+    <box label="without_mask" source="manual" occluded="0" xtl="258.82" ytl="131.40" xbr="265.78" ybr="152.86" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="10.01" ytl="122.70" xbr="28.57" ybr="147.06" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="111.00" ytl="48.86" xbr="174.96" ybr="107.98" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="maksssksksss430.png" width="400" height="300">
+    <box label="with_mask" source="manual" occluded="0" xtl="102.49" ytl="72.49" xbr="179.09" ybr="139.82" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="225.30" ytl="74.11" xbr="289.96" ybr="143.00" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="maksssksksss45.png" width="400" height="226">
+    <box label="with_mask" source="manual" occluded="0" xtl="222.51" ytl="29.41" xbr="272.62" ybr="83.78" z_order="0">
+    </box>
+    <box label="without_mask" source="manual" occluded="0" xtl="248.93" ytl="156.36" xbr="283.25" ybr="206.48" z_order="0">
+    </box>
+    <box label="without_mask" source="manual" occluded="0" xtl="60.63" ytl="33.67" xbr="94.35" ybr="63.12" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="maksssksksss452.png" width="400" height="289">
+    <box label="with_mask" source="manual" occluded="0" xtl="274.23" ytl="78.22" xbr="302.19" ybr="116.67" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="41.98" ytl="50.25" xbr="72.27" ybr="94.53" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="132.24" ytl="60.01" xbr="155.93" ybr="99.24" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="maksssksksss456.png" width="400" height="300">
+    <box label="with_mask" source="manual" occluded="0" xtl="177.07" ytl="69.67" xbr="230.29" ybr="139.01" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="maksssksksss459.png" width="298" height="400">
+    <box label="with_mask" source="manual" occluded="0" xtl="53.01" ytl="66.69" xbr="115.16" ybr="117.82" z_order="0">
+    </box>
+    <box label="mask_weared_incorrect" source="manual" occluded="0" xtl="181.80" ytl="80.73" xbr="226.40" ybr="138.90" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="maksssksksss487.png" width="400" height="267">
+    <box label="with_mask" source="manual" occluded="0" xtl="51.61" ytl="51.68" xbr="117.52" ybr="135.69" z_order="0">
+    </box>
+    <box label="without_mask" source="manual" occluded="0" xtl="4.40" ytl="92.20" xbr="43.58" ybr="155.10" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="290.50" ytl="53.35" xbr="350.06" ybr="121.64" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="161.35" ytl="74.46" xbr="218.23" ybr="142.05" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="219.91" ytl="75.80" xbr="270.43" ybr="143.39" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="maksssksksss5.png" width="400" height="266">
+    <box label="without_mask" source="manual" occluded="0" xtl="223.83" ytl="41.67" xbr="250.50" ybr="74.33" z_order="0">
+    </box>
+    <box label="without_mask" source="manual" occluded="0" xtl="188.17" ytl="93.30" xbr="230.20" ybr="143.00" z_order="0">
+    </box>
+    <box label="without_mask" source="manual" occluded="0" xtl="365.50" ytl="28.00" xbr="400.00" ybr="66.30" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="249.17" ytl="91.33" xbr="294.17" ybr="138.33" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="118.50" ytl="38.33" xbr="163.50" ybr="91.33" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="maksssksksss548.png" width="400" height="300">
+    <box label="without_mask" source="manual" occluded="0" xtl="253.95" ytl="64.29" xbr="273.50" ybr="89.85" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="185.53" ytl="78.95" xbr="215.60" ybr="113.16" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="maksssksksss563.png" width="400" height="225">
+    <box label="with_mask" source="manual" occluded="0" xtl="69.30" ytl="27.76" xbr="203.00" ybr="204.00" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="maksssksksss576.png" width="400" height="295">
+    <box label="with_mask" source="manual" occluded="0" xtl="105.20" ytl="66.34" xbr="177.28" ybr="154.70" z_order="0">
+    </box>
+    <box label="without_mask" source="manual" occluded="0" xtl="311.10" ytl="119.95" xbr="337.72" ybr="171.70" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="183.57" ytl="74.85" xbr="255.65" ybr="168.37" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="maksssksksss638.png" width="400" height="264">
+    <box label="with_mask" source="manual" occluded="0" xtl="297.10" ytl="83.71" xbr="357.30" ybr="180.00" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="57.20" ytl="97.60" xbr="105.90" ybr="162.80" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="maksssksksss646.png" width="301" height="400">
+    <box label="with_mask" source="manual" occluded="0" xtl="90.85" ytl="176.47" xbr="202.13" ybr="334.36" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="maksssksksss652.png" width="301" height="400">
+    <box label="with_mask" source="manual" occluded="0" xtl="34.70" ytl="181.48" xbr="142.48" ybr="326.30" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="maksssksksss666.png" width="400" height="300">
+    <box label="with_mask" source="manual" occluded="0" xtl="195.30" ytl="84.96" xbr="283.27" ybr="205.26" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="20.86" ytl="4.13" xbr="100.56" ybr="116.17" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="302.82" ytl="1.13" xbr="388.91" ybr="93.61" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="maksssksksss7.png" width="400" height="300">
+    <box label="with_mask" source="manual" occluded="0" xtl="253.95" ytl="110.15" xbr="343.80" ybr="210.15" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="117.48" ytl="132.33" xbr="175.00" ybr="198.87" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="158.83" ytl="88.35" xbr="218.98" ybr="173.68" z_order="0">
+    </box>
+    <box label="without_mask" source="manual" occluded="0" xtl="115.98" ytl="63.53" xbr="135.15" ybr="86.09" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="maksssksksss70.png" width="400" height="225">
+    <box label="with_mask" source="manual" occluded="0" xtl="148.63" ytl="76.00" xbr="204.87" ybr="121.96" z_order="0">
+    </box>
+    <box label="with_mask" source="manual" occluded="0" xtl="321.28" ytl="109.26" xbr="354.54" ybr="141.92" z_order="0">
+    </box>
+    <box label="without_mask" source="manual" occluded="0" xtl="18.01" ytl="114.40" xbr="47.04" ybr="145.24" z_order="0">
+    </box>
+    <box label="without_mask" source="manual" occluded="0" xtl="62.46" ytl="115.91" xbr="86.34" ybr="140.41" z_order="0">
+    </box>
+    <box label="without_mask" source="manual" occluded="0" xtl="114.16" ytl="102.00" xbr="134.12" ybr="118.63" z_order="0">
+    </box>
+    <box label="without_mask" source="manual" occluded="0" xtl="93.60" ytl="126.80" xbr="116.28" ybr="157.34" z_order="0">
+    </box>
+  </image>
+</annotations>
