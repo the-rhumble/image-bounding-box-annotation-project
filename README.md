@@ -94,7 +94,7 @@ The bounding boxes were designed to be tight around the visible face covering th
 
 The complete annotation rules are available here:
 
-[ANNOTATION_GUIDELINES.md](ANNOTATION_GUIDELINES.md)
+[ANNOTATION_GUIDELINES.md](https://github.com/the-rhumble/image-bounding-box-annotation-project/blob/main/ANNOTATION_GUIDELINES.md)
 
 The guideline covers:
 
@@ -132,7 +132,7 @@ Errors were documented and corrected.
 
 Full details are available in:
 
-[QUALITY_CHECKS.md](QUALITY_CHECKS.md)
+[QUALITY_CHECKS.md](https://github.com/the-rhumble/image-bounding-box-annotation-project/blob/main/QUALITY_CHECKS.md)
 
 ---
 
@@ -189,23 +189,23 @@ One of the main objectives was to determine whether errors were isolated mistake
 
 ### CVAT Task
 
-![CVAT task](screenshots/cvat_task.png)
+![CVAT task](https://github.com/the-rhumble/image-bounding-box-annotation-project/blob/main/CVAT_Task.PNG)
 
 ### Annotation Example
 
-![Annotation example](screenshots/annotation_example.png)
+![Annotation example](https://github.com/the-rhumble/image-bounding-box-annotation-project/blob/main/completed_task.PNG)
 
 ### Multiple Faces
 
-![Multiple faces](screenshots/multiple_faces.png)
+![Multiple faces](https://github.com/the-rhumble/image-bounding-box-annotation-project/blob/main/multiple_faces.PNG)
 
 ### Difficult Case
 
-![Difficult case](screenshots/difficult_case.png)
+![Difficult case](https://github.com/the-rhumble/image-bounding-box-annotation-project/blob/main/difficult_case.PNG)
 
 ### Completed Annotation Task
 
-![Completed task](screenshots/completed_task.png)
+![Completed task](https://github.com/the-rhumble/image-bounding-box-annotation-project/blob/main/fixed%20quality.PNG)
 
 
 ---
